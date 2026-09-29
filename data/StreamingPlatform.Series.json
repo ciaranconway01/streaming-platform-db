@@ -1,0 +1,225 @@
+[{
+  "_id": "ser_sopranos_01",
+  "title": "The Sopranos",
+  "ageRating": "18",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish"
+  ],
+  "audio": [
+    "English"
+  ],
+  "viewsTotal": 3450200,
+  "viewsToday": 1250,
+  "releaseDate": {
+    "$date": "1999-01-10T00:00:00.000Z"
+  },
+  "description": "Tony Soprano is a troubled mob boss from New Jersey that goes into therapy to deal with personal and professional problems. He tells his therapist, Jennifer, all about his 'colourful' life.",
+  "cast": [
+    "act_jamesgandolfini_01",
+    "act_ediefalco_01",
+    "act_lorrainebracco_01"
+  ],
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "episodes": [
+        {
+          "_id": "se101",
+          "title": "The Sopranos",
+          "director": "David Chase",
+          "length": "60 mins"
+        },
+        {
+          "_id": "se102",
+          "title": "46 Long",
+          "director": "Dan Attias",
+          "length": "55 mins"
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "episodes": [
+        {
+          "_id": "se201",
+          "title": "Guy Walks into a Psychiatrist's Office",
+          "director": "Allen Coulter",
+          "length": "52 mins"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": "ser_nursejackie_01",
+  "title": "Nurse Jackie",
+  "ageRating": "15",
+  "genres": [
+    "Comedy",
+    "Medical Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 980500,
+  "viewsToday": 320,
+  "releaseDate": {
+    "$date": "2009-06-08T00:00:00.000Z"
+  },
+  "description": "Emergency room nurse Jackie Peyton provides her patients with good care despite shallow doctors and an inefficient healthcare system. But she bends the rules frequently to perform her job smoothly.",
+  "cast": [
+    "act_ediefalco_01"
+  ],
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "episodes": [
+        {
+          "_id": "nj101",
+          "title": "Pilot",
+          "director": "Allen Coulter",
+          "length": "30 mins"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": "ser_thewire_01",
+  "title": "The Wire",
+  "ageRating": "18",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 1250500,
+  "viewsToday": 450,
+  "releaseDate": {
+    "$date": "2002-06-02T00:00:00.000Z"
+  },
+  "description": "Baltimore's inner-city crime and drug scene, seen through the eyes of every part of the drug 'food chain', politicians, police, drug dealers and users.",
+  "cast": [
+    "act_idriselba_01",
+    "act_dominicwest_01",
+    "act_lancereddick_01"
+  ],
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "episodes": [
+        {
+          "_id": "tw101",
+          "title": "The Target",
+          "director": "Clark Johnson",
+          "length": "60 mins"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": "ser_breakingbad_01",
+  "title": "Breaking Bad",
+  "ageRating": "18",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 4850000,
+  "viewsToday": 8500,
+  "releaseDate": {
+    "$date": "2008-01-20T00:00:00.000Z"
+  },
+  "description": "Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts. His priorities begin to change when he partners with Jesse.",
+  "cast": [
+    "act_bryancranston_01",
+    "act_aaronpaul_01"
+  ],
+  "seasons": [
+    {
+      "seasonNumber": 5,
+      "episodes": [
+        {
+          "_id": "bb514",
+          "title": "Ozymandias",
+          "director": "Rian Johnson",
+          "length": "47 mins"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": "ser_bluey_01",
+  "title": "Bluey",
+  "ageRating": "U",
+  "genres": [
+    "Animation",
+    "Family",
+    "Kids"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish"
+  ],
+  "audio": [
+    "English"
+  ],
+  "viewsTotal": 15000000,
+  "viewsToday": 45000,
+  "releaseDate": {
+    "$date": "2018-10-01T00:00:00.000Z"
+  },
+  "description": "An overenthusiastic and imaginative Blue Heeler puppy, Bluey, goes on adventures with her younger sister, Bingo, which unfolds in hilarious ways.",
+  "cast": [
+    "act_davidmccormack_01",
+    "act_melaniezanetti_01"
+  ],
+  "seasons": [
+    {
+      "seasonNumber": 3,
+      "episodes": [
+        {
+          "_id": "bl318",
+          "title": "Rain",
+          "director": "Joe Brumm",
+          "length": "7 mins"
+        }
+      ]
+    }
+  ]
+}]

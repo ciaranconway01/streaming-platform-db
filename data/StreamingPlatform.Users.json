@@ -1,0 +1,174 @@
+[{
+  "_id": "user_john_01",
+  "accountId": "account_john_01",
+  "email": "john.smith@example.com",
+  "phoneNumber": "07700900123",
+  "paymentDetails": {
+    "provider": "Stripe",
+    "paymentToken": "tok_visa_1234_xyz",
+    "lastFour": "1234"
+  },
+  "membership": {
+    "type": "premium",
+    "ads": false,
+    "price": 15.99,
+    "quality": "4K Ultra HD",
+    "resolution": "2160p",
+    "supportedDevices": [
+      "Smart TV",
+      "Laptop",
+      "Mobile",
+      "Tablet"
+    ],
+    "concurrentUsers": 4
+  },
+  "profiles": [
+    {
+      "name": "John",
+      "settings": {
+        "notifications": {
+          "email": true,
+          "push": true
+        },
+        "playback": {
+          "autoplayEpisode": true,
+          "autoplayPreviews": true,
+          "dataUsage": "Auto"
+        },
+        "subtitles": {
+          "font": "Arial",
+          "textSize": "Medium",
+          "shadow": "Drop",
+          "background": "Clear",
+          "window": "None",
+          "language": "English"
+        }
+      },
+      "watchList": []
+    },
+    {
+      "name": "Mary",
+      "settings": {
+        "notifications": {
+          "email": false,
+          "push": true
+        },
+        "playback": {
+          "autoplayEpisode": false,
+          "autoplayPreviews": false,
+          "dataUsage": "Save Data"
+        },
+        "subtitles": {
+          "font": "Helvetica",
+          "textSize": "Large",
+          "shadow": "None",
+          "background": "Black",
+          "window": "None",
+          "language": "Spanish"
+        }
+      },
+      "watchList": [
+        "ser_thewire_01"
+      ]
+    },
+    {
+      "name": "Kids",
+      "settings": {
+        "notifications": {
+          "email": false,
+          "push": false
+        },
+        "playback": {
+          "autoplayEpisode": true,
+          "autoplayPreviews": false,
+          "dataUsage": "Auto"
+        },
+        "subtitles": {
+          "font": "Comic Sans",
+          "textSize": "Extra Large",
+          "shadow": "None",
+          "background": "Black",
+          "window": "None",
+          "language": "English"
+        }
+      },
+      "watchList": [
+        "film_toystory_01"
+      ]
+    }
+  ]
+},
+{
+  "_id": "user_sarah_01",
+  "accountId": "account_sarah_01",
+  "email": "sarah.smith@example.com",
+  "phoneNumber": "07700900456",
+  "paymentDetails": {
+    "provider": "PayPal",
+    "paymentToken": "tok_paypal_9876_abc",
+    "lastFour": "aryj"
+  },
+  "membership": {
+    "type": "standard",
+    "ads": true,
+    "price": 9.99,
+    "quality": "1080p HD",
+    "resolution": "1080p",
+    "supportedDevices": [
+      "Laptop",
+      "Mobile"
+    ],
+    "concurrentUsers": 2
+  },
+  "profiles": [
+    {
+      "name": "Sarah",
+      "settings": {
+        "notifications": {
+          "email": true,
+          "push": false
+        },
+        "playback": {
+          "autoplayEpisode": true,
+          "autoplayPreviews": false,
+          "dataUsage": "Auto"
+        },
+        "subtitles": {
+          "font": "Arial",
+          "textSize": "Medium",
+          "shadow": "None",
+          "background": "Black",
+          "window": "None",
+          "language": "English"
+        }
+      },
+      "watchList": [
+        "film_parasite_01",
+        "ser_thewire_01"
+      ]
+    },
+    {
+      "name": "Housemate",
+      "settings": {
+        "notifications": {
+          "email": false,
+          "push": false
+        },
+        "playback": {
+          "autoplayEpisode": false,
+          "autoplayPreviews": false,
+          "dataUsage": "Save Data"
+        },
+        "subtitles": {
+          "font": "Helvetica",
+          "textSize": "Large",
+          "shadow": "Drop",
+          "background": "Clear",
+          "window": "None",
+          "language": "Spanish"
+        }
+      },
+      "watchList": []
+    }
+  ]
+}]

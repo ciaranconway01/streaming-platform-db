@@ -1,0 +1,360 @@
+[{
+  "_id": "act_ediefalco_01",
+  "name": "Edie Falco",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-204940800000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_jamesgandolfini_01",
+  "name": "James Gandolfini",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-261532800000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_lorrainebracco_01",
+  "name": "Lorraine Bracco",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-481248000000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_idriselba_01",
+  "name": "Idris Elba",
+  "birthDate": {
+    "$date": "1972-09-06T00:00:00.000Z"
+  },
+  "nationality": "British"
+},
+{
+  "_id": "act_dominicwest_01",
+  "name": "Dominic West",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-6739200000"
+    }
+  },
+  "nationality": "British"
+},
+{
+  "_id": "act_lancereddick_01",
+  "name": "Lance Reddick",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-221011200000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_bryancranston_01",
+  "name": "Bryan Cranston",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-436147200000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_aaronpaul_01",
+  "name": "Aaron Paul",
+  "birthDate": {
+    "$date": "1979-08-27T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_davidmccormack_01",
+  "name": "David McCormack",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-37411200000"
+    }
+  },
+  "nationality": "Australian"
+},
+{
+  "_id": "act_melaniezanetti_01",
+  "name": "Melanie Zanetti",
+  "birthDate": {
+    "$date": "1985-03-20T00:00:00.000Z"
+  },
+  "nationality": "Australian"
+},
+{
+  "_id": "act_jesseplemons_01",
+  "name": "Jesse Plemons",
+  "birthDate": {
+    "$date": "1988-04-02T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_songkangho_01",
+  "name": "Song Kang-ho",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-93312000000"
+    }
+  },
+  "nationality": "South Korean"
+},
+{
+  "_id": "act_matthewbroderick_01",
+  "name": "Matthew Broderick",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-245635200000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_jamesearljones_01",
+  "name": "James Earl Jones",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-1229385600000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_rowanatkinson_01",
+  "name": "Rowan Atkinson",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-472953600000"
+    }
+  },
+  "nationality": "British"
+},
+{
+  "_id": "act_tomhanks_01",
+  "name": "Tom Hanks",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-425433600000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_timallen_01",
+  "name": "Tim Allen",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-522374400000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_garysinise_01",
+  "name": "Gary Sinise",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-466905600000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_robinwright_01",
+  "name": "Robin Wright",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-117849600000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_javierbardem_01",
+  "name": "Javier Bardem",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-26438400000"
+    }
+  },
+  "nationality": "Spanish"
+},
+{
+  "_id": "act_tommyleejones_01",
+  "name": "Tommy Lee Jones",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-735177600000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_joshbrolin_01",
+  "name": "Josh Brolin",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-59529600000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_timotheechalamet_01",
+  "name": "Timothée Chalamet",
+  "birthDate": {
+    "$date": "1995-12-27T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_zendaya_01",
+  "name": "Zendaya",
+  "birthDate": {
+    "$date": "1996-09-01T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_jacknicholson_01",
+  "name": "Jack Nicholson",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-1031788800000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_shelleyduvall_01",
+  "name": "Shelley Duvall",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-646531200000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_donaldglover_01",
+  "name": "Donald Glover",
+  "birthDate": {
+    "$date": "1983-09-25T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_beyonce_01",
+  "name": "Beyoncé",
+  "birthDate": {
+    "$date": "1981-09-04T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_christianbale_01",
+  "name": "Christian Bale",
+  "birthDate": {
+    "$date": "1974-01-30T00:00:00.000Z"
+  },
+  "nationality": "British"
+},
+{
+  "_id": "act_heathledger_01",
+  "name": "Heath Ledger",
+  "birthDate": {
+    "$date": "1979-04-04T00:00:00.000Z"
+  },
+  "nationality": "Australian"
+},
+{
+  "_id": "act_jimcarrey_01",
+  "name": "Jim Carrey",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-251078400000"
+    }
+  },
+  "nationality": "Canadian"
+},
+{
+  "_id": "act_annehathaway_01",
+  "name": "Anne Hathaway",
+  "birthDate": {
+    "$date": "1982-11-12T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_jessicachastain_01",
+  "name": "Jessica Chastain",
+  "birthDate": {
+    "$date": "1977-03-24T00:00:00.000Z"
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_rumihiiragi_01",
+  "name": "Rumi Hiiragi",
+  "birthDate": {
+    "$date": "1987-08-01T00:00:00.000Z"
+  },
+  "nationality": "Japanese"
+},
+{
+  "_id": "act_miyuirino_01",
+  "name": "Miyu Irino",
+  "birthDate": {
+    "$date": "1988-02-19T00:00:00.000Z"
+  },
+  "nationality": "Japanese"
+},
+{
+  "_id": "act_marinatsuki_01",
+  "name": "Mari Natsuki",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-557539200000"
+    }
+  },
+  "nationality": "Japanese"
+},
+{
+  "_id": "act_samjackson_01",
+  "name": "Samuel L. Jackson",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-663638400000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_johntravolta_01",
+  "name": "John Travolta",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-500774400000"
+    }
+  },
+  "nationality": "American"
+},
+{
+  "_id": "act_umathurman_01",
+  "name": "Uma Thurman",
+  "birthDate": {
+    "$date": "1970-04-29T00:00:00.000Z"
+  },
+  "nationality": "American"
+}]

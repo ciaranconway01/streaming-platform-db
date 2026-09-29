@@ -1,0 +1,22 @@
+[{
+  "_id": "account_john_01",
+  "email": "john.smith@example.com",
+  "salt": "a8bf644dae678aaa5a188d3f25e40b68",
+  "hash": "ccd506743857e52558904161e5ae00fca6d24d276",
+  "hashingAlgorithm": "bcrypt",
+  "createdAt": {
+    "$date": "2026-03-06T10:00:00.000Z"
+  },
+  "status": "active"
+},
+{
+  "_id": "account_sarah_01",
+  "email": "sarah.smith@example.com",
+  "salt": "f3d29a1b4e678ccc2a188d3f25e40d72",
+  "hash": "eeb927645157f82558904161e5ae00fca6d24d99",
+  "hashingAlgorithm": "bcrypt",
+  "createdAt": {
+    "$date": "2026-03-07T09:00:00.000Z"
+  },
+  "status": "active"
+}]

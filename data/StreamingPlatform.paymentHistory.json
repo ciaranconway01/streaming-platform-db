@@ -1,0 +1,10 @@
+[{
+  "_id": "pay_john_01",
+  "userId": "user_john_01",
+  "date": {
+    "$date": "2026-03-01T09:00:00.000Z"
+  },
+  "description": "Premium Monthly Subscription",
+  "paymentMethod": "tok_visa_1234_xyz",
+  "total": 15.99
+}]

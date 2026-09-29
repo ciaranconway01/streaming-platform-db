@@ -1,0 +1,500 @@
+[{
+  "_id": "film_elcamino_01",
+  "title": "El Camino: A Breaking Bad Movie",
+  "ageRating": "15",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 3200000,
+  "viewsToday": 450,
+  "releaseDate": {
+    "$date": "2019-10-11T00:00:00.000Z"
+  },
+  "description": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+  "cast": [
+    "act_aaronpaul_01",
+    "act_bryancranston_01",
+    "act_jesseplemons_01"
+  ],
+  "director": "Vince Gilligan",
+  "length": "122 mins"
+},
+{
+  "_id": "film_parasite_01",
+  "title": "Parasite",
+  "ageRating": "15",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Comedy"
+  ],
+  "originalLanguage": "Korean",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French",
+    "Korean"
+  ],
+  "audio": [
+    "Korean",
+    "English (Dubbed)"
+  ],
+  "viewsTotal": 6500000,
+  "viewsToday": 1200,
+  "releaseDate": {
+    "$date": "2019-05-30T00:00:00.000Z"
+  },
+  "description": "The struggling Kim family sees an opportunity when the son starts working for the wealthy Park family. Soon, all of them find a way to work within the same household and start living a parasitic life.",
+  "cast": [
+    "act_songkangho_01"
+  ],
+  "director": "Bong Joon-ho",
+  "length": "132 mins"
+},
+{
+  "_id": "film_lionking_01",
+  "title": "The Lion King",
+  "ageRating": "U",
+  "genres": [
+    "Animation",
+    "Family",
+    "Musical",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French",
+    "Swahili"
+  ],
+  "audio": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "viewsTotal": 18500000,
+  "viewsToday": 15000,
+  "releaseDate": {
+    "$date": "1994-06-15T00:00:00.000Z"
+  },
+  "description": "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne.",
+  "cast": [
+    "act_matthewbroderick_01",
+    "act_jamesearljones_01",
+    "act_rowanatkinson_01"
+  ],
+  "director": "Roger Allers",
+  "length": "88 mins"
+},
+{
+  "_id": "film_toystory_01",
+  "title": "Toy Story",
+  "ageRating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 20500000,
+  "viewsToday": 18000,
+  "releaseDate": {
+    "$date": "1995-11-22T00:00:00.000Z"
+  },
+  "description": "Andy's favourite toy, Woody, is worried that after Andy receives his birthday gift, a new toy called Buzz Lightyear, his importance may get reduced. He thus hatches a plan to eliminate Buzz.",
+  "cast": [
+    "act_tomhanks_01",
+    "act_timallen_01"
+  ],
+  "director": "John Lasseter",
+  "length": "81 mins"
+},
+{
+  "_id": "film_forrestgump_01",
+  "title": "Forrest Gump",
+  "ageRating": "12",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 19500000,
+  "viewsToday": 8200,
+  "releaseDate": {
+    "$date": "1994-07-06T00:00:00.000Z"
+  },
+  "description": "Forrest, a man with low IQ, recounts the early years of his life when he found himself in the middle of key historical events. All he wants now is to be reunited with his childhood sweetheart, Jenny.",
+  "cast": [
+    "act_tomhanks_01",
+    "act_garysinise_01",
+    "act_robinwright_01"
+  ],
+  "director": "Robert Zemeckis",
+  "length": "142 mins"
+},
+{
+  "_id": "film_biutiful_01",
+  "title": "Biutiful",
+  "ageRating": "15",
+  "genres": [
+    "Drama"
+  ],
+  "originalLanguage": "Spanish",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "audio": [
+    "Spanish",
+    "English (Dubbed)"
+  ],
+  "viewsTotal": 1450000,
+  "viewsToday": 210,
+  "releaseDate": {
+    "$date": "2010-10-22T00:00:00.000Z"
+  },
+  "description": "Single father Uxbal finds out that he is suffering from a terminal disease. As he struggles to secure his children's future, he must also come to terms with the guilt of his occupation.",
+  "cast": [
+    "act_javierbardem_01"
+  ],
+  "director": "Alejandro G. Iñárritu",
+  "length": "148 mins"
+},
+{
+  "_id": "film_nocountry_01",
+  "title": "No Country for Old Men",
+  "ageRating": "15",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 8550000,
+  "viewsToday": 5000,
+  "releaseDate": {
+    "$date": "2007-11-09T00:00:00.000Z"
+  },
+  "description": "A hunter's life takes a drastic turn when he discovers two million dollars while strolling through the aftermath of a drug deal. He is then pursued by a psychopathic killer who wants the money.",
+  "cast": [
+    "act_javierbardem_01",
+    "act_tommyleejones_01",
+    "act_joshbrolin_01"
+  ],
+  "director": "Joel and Ethan Coen",
+  "length": "122 mins"
+},
+{
+  "_id": "film_dune_01",
+  "title": "Dune",
+  "ageRating": "12",
+  "genres": [
+    "Sci-Fi",
+    "Adventure",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French",
+    "Arabic"
+  ],
+  "audio": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "viewsTotal": 12800000,
+  "viewsToday": 7000,
+  "releaseDate": {
+    "$date": "2021-10-22T00:00:00.000Z"
+  },
+  "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+  "cast": [
+    "act_timotheechalamet_01",
+    "act_zendaya_01",
+    "act_javierbardem_01",
+    "act_joshbrolin_01"
+  ],
+  "director": "Denis Villeneuve",
+  "length": "155 mins"
+},
+{
+  "_id": "film_theshining_01",
+  "title": "The Shining",
+  "ageRating": "18",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "audio": [
+    "English",
+    "French"
+  ],
+  "viewsTotal": 15800000,
+  "viewsToday": 6500,
+  "releaseDate": {
+    "$date": "1980-05-23T00:00:00.000Z"
+  },
+  "description": "Jack Torrance is a winter caretaker at the Overlook Hotel. He lives there with his wife Wendy and son Danny. However, things take a turn when Danny and his family start witnessing supernatural events.",
+  "cast": [
+    "act_jacknicholson_01",
+    "act_shelleyduvall_01"
+  ],
+  "director": "Stanley Kubrick",
+  "length": "146 mins"
+},
+{
+  "_id": "film_lionking_02",
+  "title": "The Lion King",
+  "ageRating": "PG",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Musical"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 25000000,
+  "viewsToday": 14000,
+  "releaseDate": {
+    "$date": "2019-07-19T00:00:00.000Z"
+  },
+  "description": "Simba, a young lion prince, flees his kingdom after the murder of his father, Mufasa. Years later, a chance encounter with Nala, a lioness, causes him to return and take back what is rightfully his.",
+  "cast": [
+    "act_donaldglover_01",
+    "act_beyonce_01",
+    "act_jamesearljones_01"
+  ],
+  "director": "Jon Favreau",
+  "length": "118 mins"
+},
+{
+  "_id": "film_darkknight_01",
+  "title": "The Dark Knight",
+  "ageRating": "12",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "audio": [
+    "English",
+    "Spanish",
+    "Japanese"
+  ],
+  "viewsTotal": 35000000,
+  "viewsToday": 22000,
+  "releaseDate": {
+    "$date": "2008-07-18T00:00:00.000Z"
+  },
+  "description": "Batman has a new foe, the Joker, who is an accomplished criminal hell-bent on decimating Gotham City. Together with Gordon and Harvey Dent, Batman struggles to thwart the Joker before it is too late.",
+  "cast": [
+    "act_christianbale_01",
+    "act_heathledger_01"
+  ],
+  "director": "Christopher Nolan",
+  "length": "152 mins"
+},
+{
+  "_id": "film_trumanshow_01",
+  "title": "The Truman Show",
+  "ageRating": "PG",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 12400000,
+  "viewsToday": 3100,
+  "releaseDate": {
+    "$date": "1998-06-05T00:00:00.000Z"
+  },
+  "description": "Executive producer Christof organises a reality show based on the life of an ordinary man, Truman Burbank. But Truman is unaware of the fact that every move of his life is being captured by cameras.",
+  "cast": [
+    "act_jimcarrey_01"
+  ],
+  "director": "Peter Weir",
+  "length": "103 mins"
+},
+{
+  "_id": "film_interstellar_01",
+  "title": "Interstellar",
+  "ageRating": "12",
+  "genres": [
+    "Sci-Fi",
+    "Drama",
+    "Adventure"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "French"
+  ],
+  "audio": [
+    "English",
+    "French"
+  ],
+  "viewsTotal": 42000000,
+  "viewsToday": 2500,
+  "releaseDate": {
+    "$date": "2014-11-07T00:00:00.000Z"
+  },
+  "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+  "cast": [
+    "act_mcconaughey_01",
+    "act_annehathaway_01",
+    "act_jessicachastain_01",
+    "act_timotheechalamet_01"
+  ],
+  "director": "Christopher Nolan",
+  "length": "169 mins"
+},
+{
+  "_id": "film_spiritedaway_01",
+  "title": "Spirited Away",
+  "ageRating": "PG",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "originalLanguage": "Japanese",
+  "subtitles": [
+    "English",
+    "Japanese",
+    "Spanish",
+    "French",
+    "Arabic",
+    "Hindi"
+  ],
+  "audio": [
+    "Japanese",
+    "English (Dubbed)"
+  ],
+  "viewsTotal": 16000000,
+  "viewsToday": 5300,
+  "releaseDate": {
+    "$date": "2001-07-20T00:00:00.000Z"
+  },
+  "description": "Ten-year-old Chihiro and her parents end up at an abandoned amusement park inhabited by supernatural beings. Soon, she learns that she must work to free her parents who have been turned into pigs.",
+  "cast": [
+    "act_rumihiiragi_01",
+    "act_miyuirino_01",
+    "act_marinatsuki_01"
+  ],
+  "director": "Hayao Miyazaki",
+  "length": "125 mins"
+},
+{
+  "_id": "film_pulpfiction_01",
+  "title": "Pulp Fiction",
+  "ageRating": "18",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+  ],
+  "originalLanguage": "English",
+  "subtitles": [
+    "English",
+    "Spanish"
+  ],
+  "audio": [
+    "English",
+    "Spanish"
+  ],
+  "viewsTotal": 26000000,
+  "viewsToday": 12000,
+  "releaseDate": {
+    "$date": "1994-10-14T00:00:00.000Z"
+  },
+  "description": "In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals",
+  "cast": [
+    "act_samjackson_01",
+    "act_johntravolta_01",
+    "act_umathurman_01"
+  ],
+  "director": "Quentin Tarantino",
+  "length": "154 mins"
+}]
